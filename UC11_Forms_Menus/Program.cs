@@ -16,7 +16,7 @@ namespace UC11_Forms_Menus
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormLOGIN());
+            Application.Run(new FormCLIENTE());
         }
     }
 }
